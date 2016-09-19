@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Sat Apr 28 01:31:36 EDT 2012
+onejar.license.required=false
+manifest.classpath=
+manifest.removesigners=true
+onejar.checkbox=true
+jarname=LevelEditor.jar
+manifest.mergeall=true
+manifest.mainclass=leveleditor.Main
+manifest.file=<createnew>
+jarname.isextern=false
+onejar.expand=
+excludes=
+includes=
